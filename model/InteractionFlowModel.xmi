@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<core:InteractionFlowModel
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:core="http://www.omg.org/spec/IFML/core"
+    xsi:schemaLocation="http://www.omg.org/spec/IFML/core Core.xcore#/EPackage">
+  <interactionFlowModelElements
+      xsi:type="core:ViewComponent">
+    <viewComponentParts/>
+  </interactionFlowModelElements>
+</core:InteractionFlowModel>
